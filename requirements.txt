@@ -1,2 +1,5 @@
+# FRAMEWORKS
 streamlit
+
+# MACHINE LEARNING
 scikit-learn
